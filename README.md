@@ -1,6 +1,4 @@
-# hello-world
-To familiarizing git hub1
-
+# testing purpose
 Hi ,
   i am shinoj rajan from palakkad.
-  where are you
+  this is not not a project ,this is only for testing purpose
